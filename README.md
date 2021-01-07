@@ -1,4 +1,3 @@
-### Hi there 👋
 # Hi! I'm Edwin Berrones 👋
 
 ##  🧑‍💻 A little more about me... 
