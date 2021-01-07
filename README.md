@@ -18,8 +18,6 @@
 ### Tools 🔧
 - Angular
 - RxJs
-- Git
-- Github
 
 ### Preprocessor ⚙️
 - SASS
