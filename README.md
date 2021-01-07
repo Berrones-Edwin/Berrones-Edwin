@@ -1,16 +1,30 @@
 ### Hi there 👋
+# Hi! I'm Edwin Berrones 👋
 
-<!--
-**Berrones-Edwin/Berrones-Edwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  🧑‍💻 A little more about me... 
 
-Here are some ideas to get you started:
+  - 🎓 &nbsp; Front End Developer.
+  - 🧠 &nbsp; Exploring new technologies.
+  - 📚 &nbsp; Learning more about Frontend Development and new technologies, learning NodeJs, ExpressJS, GRAPHQL and build API Rest.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies 
+
+### Code 💻
+- HTML
+- CSS
+- Javascript
+- Typescript
+
+### Tools 🔧
+- Angular
+- RxJs
+- Git
+- Github
+
+### Preprocessor ⚙️
+- SASS
+     
+## You can find me 🌎
+ - [Github](https://github.com/Berrones-Edwin)
+ - [Twitter](https://twitter.com/eberrones_)
+
