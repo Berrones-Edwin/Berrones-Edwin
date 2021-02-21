@@ -39,7 +39,6 @@
 <p align="left">
 <a href="https://github.com/Berrones-Edwin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="eberrones_" height="30" width="40" /></a>
 <a href="https://twitter.com/eberrones_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="eberrones_" height="30" width="40" /></a>
-<a href="https://instagram.com/eberrones_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="eberrones_" height="30" width="40" /></a>
-</p>
+
 
 
