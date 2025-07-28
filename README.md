@@ -6,9 +6,9 @@
 
 <h2> 🧑‍💻 A little more about me... </h2>
 <ul>
-  <li> 🎓 &nbsp; Front End Developer. </li>
+  <li> 🎓 &nbsp; Software Engineer. </li>
   <li> 🧠 &nbsp; Exploring new technologies. </li>
-  <li> 📚 &nbsp; Learning more about Frontend Development and new technologies, learning NodeJs, ExpressJS, GRAPHQL and build API Rest. </li>
+  <li> 📚 &nbsp; Learning more about Web Development and new technologies, learning NodeJs, ExpressJS, and build API Rest. </li>
 
 </ul>
 
